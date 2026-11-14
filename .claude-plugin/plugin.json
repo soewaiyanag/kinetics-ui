@@ -1,6 +1,6 @@
 {
   "name": "kinetics-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decides which animation to use when building web UIs: easing, duration, origin and technique.",
   "author": { "name": "Soe Wai Yan Aung", "url": "https://soewaiyanag.dev" },
   "homepage": "https://github.com/soewaiyanag/kinetics-ui",
