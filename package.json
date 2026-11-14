@@ -1,0 +1,14 @@
+{
+  "name": "kinetics-ui",
+  "version": "1.0.0",
+  "description": "An agent skill that decides which animation to use when building web UIs: easing, duration, origin and technique.",
+  "keywords": ["claude", "claude-code", "agent-skill", "skill", "animation", "motion", "ui", "ux", "css", "framer-motion"],
+  "author": "Soe Wai Yan Aung (https://soewaiyanag.dev)",
+  "license": "MIT",
+  "homepage": "https://github.com/soewaiyanag/kinetics-ui#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/soewaiyanag/kinetics-ui.git" },
+  "bugs": { "url": "https://github.com/soewaiyanag/kinetics-ui/issues" },
+  "bin": { "kinetics-ui": "bin/cli.js" },
+  "files": ["bin", "skills", ".claude-plugin", "README.md", "LICENSE"],
+  "engines": { "node": ">=16" }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kinetics-ui",
+  "owner": { "name": "Soe Wai Yan Aung", "url": "https://soewaiyanag.dev" },
+  "plugins": [
+    {
+      "name": "kinetics-ui",
+      "source": "./",
+      "description": "Decides which animation to use when building web UIs: easing, duration, origin and technique."
+    }
+  ]
+}
