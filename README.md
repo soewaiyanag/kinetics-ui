@@ -99,7 +99,7 @@ npm publish
 
 ## Credits
 
-Principles adapted from video content by `@charles.unemployed`, plus classic animation principles and UX laws (Fitts, Hick, Miller, Doherty, Postel, Jakob).
+Built on classic animation principles and UX laws (Fitts, Hick, Miller, Doherty, Postel, Jakob).
 
 ## License
 
