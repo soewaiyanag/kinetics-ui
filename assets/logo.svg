@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t">
+  <title id="t">kinetics-ui</title>
+  <defs>
+    <linearGradient id="trail" gradientUnits="userSpaceOnUse" x1="112" y1="400" x2="400" y2="112">
+      <stop offset="0" stop-color="#F5F2EA" stop-opacity="0.15"/>
+      <stop offset="0.55" stop-color="#F5F2EA"/>
+      <stop offset="1" stop-color="#FF5B2E"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#0E0E11"/>
+  <!-- the skill's default ease-out curve: cubic-bezier(0.16, 1, 0.3, 1) -->
+  <path d="M112 400 C158 112 198.4 112 400 112" fill="none" stroke="url(#trail)" stroke-width="36" stroke-linecap="round"/>
+  <circle cx="112" cy="400" r="18" fill="#0E0E11" stroke="#F5F2EA" stroke-opacity="0.35" stroke-width="8"/>
+  <circle cx="400" cy="112" r="44" fill="#FF5B2E"/>
+</svg>
